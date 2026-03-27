@@ -98,6 +98,26 @@ A few things that stood out:
 - The logistic regression model hits around 85%+ accuracy on pass/fail prediction — though worth noting the dataset has a high pass rate, so class imbalance plays a role in that number
 
 ---
+## Visualizations
+
+### Score Distributions
+![Score Distributions](visuals/score_distributions.png)
+
+### Average Score by Gender
+![Score by Gender](visuals/score_by_gender.png)
+
+### Parental Education Impact
+![Parent Education](visuals/score_by_parent_education.png)
+
+### Test Preparation Impact
+![Test Prep](visuals/score_by_test_prep.png)
+
+### Correlation Heatmap
+![Heatmap](visuals/correlation_heatmap.png)
+
+### Confusion Matrix
+![Confusion Matrix](visuals/confusion_matrix.png)
+
 
 ## Visuals generated
 
